@@ -1,5 +1,3 @@
-# Refinery-Audio
-A free desktop tool to clean and organize MP3 files
 # Refinery Audio
 
 **Refinery Audio** is a free desktop tool for cleaning, organizing, and refining MP3 files.  
@@ -22,9 +20,8 @@ Quickly rename tracks, edit metadata, and keep your audio library tidy.
 
 ## Screenshots
 
-![Main Window](screenshots/main_window.png)
-![Edit Metadata Popup](screenshots/edit_metadata.png)
-  
+![Main Window](screenshots/main_window.png)  
+![Edit Metadata Popup](screenshots/edit_metadata.png)  
 
 
 
@@ -43,7 +40,7 @@ Quickly rename tracks, edit metadata, and keep your audio library tidy.
 ## Support
 
 Refinery Audio is **free to use**.  
-If you find it useful, consider supporting development via [Ko-fi](https://ko-fi.com/refineryaudio).  
+If you enjoy it, consider supporting development via [Ko-fi](https://ko-fi.com/refineryaudio).  
 
 ---
 
@@ -57,4 +54,5 @@ If you find it useful, consider supporting development via [Ko-fi](https://ko-fi
 
 ## License
 
-Refinery Audio is released under the [MIT License](LICENSE).  
+Refinery Audio is released under the [MIT License](LICENSE).
+ 
