@@ -22,10 +22,11 @@ Quickly rename tracks, edit metadata, and keep your audio library tidy.
 
 ## Screenshots
 
-![Main Window](screenshots/main_window.png)  
-![Edit Metadata Popup](screenshots/edit_metadata.png)  
+![Main Window](screenshots/main_window.png)
+![Edit Metadata Popup](screenshots/edit_metadata.png)
+  
 
-> Replace the above paths with your actual screenshots. Screenshots make the repo look professional and trustworthy.
+
 
 ---
 
