@@ -37,10 +37,14 @@ Quickly rename tracks, edit metadata, and keep your audio library tidy.
 
 ---
 
-## Support
+
+## Support & Purchase
 
 Refinery Audio is **free to use**.  
-If you enjoy it, consider supporting development via [Ko-fi](https://ko-fi.com/refineryaudio).  
+If you enjoy it, consider supporting development via
+- **Buy via Stripe:** https://buy.stripe.com/bJebJ06YL5Dz95B3Vg28800  
+- **PayPal:** https://paypal.me/RefineryAudio  
+- **Ko-fi:** https://ko-fi.com/refineryaudio
 
 ---
 
